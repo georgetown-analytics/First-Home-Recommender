@@ -1,0 +1,4 @@
+
+C:\Users\Michael\Workspace\First-Home-Recommender\data
+C:\Users\Michael\Workspace\First-Home-Recommender\data\Census AHS
+C:\Users\Michael\Workspace\First-Home-Recommender\data\working
