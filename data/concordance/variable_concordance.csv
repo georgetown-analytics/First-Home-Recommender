@@ -1,0 +1,989 @@
+Variable,Title1,Title2,Title3,Type,Not Experience,Weight,Flag
+CONTROL,Control number,"CONTROL is sequentially assigned each survey year. Beginning with 2015, the first three digits are 110 for National sample records, and 210 for Metropolitan sample records. The last five digits are sequentially numbered beginning with 00001. CONTROL can be used to link records across datasets and between survey years.",NA,N/A,FALSE,FALSE,FALSE
+TOTROOMS,Number of rooms in unit,The total number of rooms is the sum of all rooms reported by the respondent.,NA,Continuous,TRUE,FALSE,FALSE
+PERPOVLVL,Household income as percent of poverty threshold (rounded),This item calculates household income as a percent of the poverty threshold located in the POVLVLINC variable.,NA,Continuous,TRUE,FALSE,FALSE
+JACPRIMARY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JACSECNDRY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JADEQUACY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JBATHEXCLU,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JBATHROOMS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JBEDROOMS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JBLD,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLD,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDCOST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDEQ,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDEQFREQ,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDHTCAP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDINSUL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDOTHER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOLDUTIL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCONDO,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOOKFUEL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JCOOKTYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JDINING,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JDISHH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JDISHWASH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JDRYER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JDWNPAYPCT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JELECAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JENTRYSYS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFINCP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFINROOMS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFIREPLACE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFIRSTHOME,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFLOORHOLE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFNDCRUMB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFOUNDTYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFRIDGE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JFUSEBLOW,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JGARAGE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JGASAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JGRANDHH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JGUTREHB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHEATFUEL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHEATTYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHADLTKIDS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHAGE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHCARE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHCITSHP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHERRND,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHGRAD,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHHEAR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHINUSYR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHMAR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHMEMRY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHMOVE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHNATVTY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHOLDKIDS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHRACE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHRACEAS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHRACEPI,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHSEE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHSEX,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHSPAN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHWALK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHHYNGKIDS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHINCP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHMRACCESS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHMRENEFF,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHMRSALE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHOA,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHOAAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHOTWATER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHOWBUY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHRATE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHSHLDTYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JHUDSUB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JINSURAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JKITCHENS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JKITCHSINK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JKITEXCLU,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLAUNDY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEADINSP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKI,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKIDK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKIOTH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKIPIPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKIPLUM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKIWATH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKO,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKOBASE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKOOTH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKOROOF,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLEAKOWALL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLOTAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JLOTSIZE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMAINTAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMARKETVAL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMGRONSITE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMHANCHOR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMHMOVE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMHWIDE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMILHH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDBASEM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDBATH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDBEDRM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDKITCH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDLROOM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOLDOTHER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMONLSTOCC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMORTAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMOVFORCE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMULTIGEN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1COST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1LOC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1PER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1STAT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1TEN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG1TYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2COST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2LOC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2PER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2STAT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2TEN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG2TYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3COST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3LOC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3PER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3STAT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3TEN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JMVG3TYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNEARABAND,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNEARBARCL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNEARTRASH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNHQPCRIME,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNHQPUBTRN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNHQRISK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNHQSCHOOL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNHQSCRIME,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNORC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOSTEP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOTOIL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOTOILFREQ,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOWAT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOWATFREQ,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNOWIRE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNRATE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMADULTS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMCARE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMELDERS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMERRND,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMHEAR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMMEMRY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMNONREL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMOLDKIDS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMPEOPLE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMSECFAM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMSEE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMSUBFAM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMVETS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMWALK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JNUMYNGKIDS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCAPRIL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCAUGUST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCDECEM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCFEBRU,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCJANUR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCJULY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCJUNE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCMARCH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCMAY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCNOVEM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCOCTOB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCSEPTEM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOCCYRRND,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOILAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOTHERAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JOWNLOT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPAINTPEEL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPARTNER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPERMNEAR,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPERPOVLVL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPLUGS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPORCH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPOVLVLINC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JPROTAXAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRATINGHS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRATINGNH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JREMODAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JREMODJOBS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRENT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRENTCNTRL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRENTSUB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMCHANGE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMCOMMUTE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMCOSTS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMFAMILY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMHOME,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMHOOD,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMJOB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMOTHER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRMOWNHH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JROACH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JRODENT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JROOFHOLE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JROOFSAG,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JROOFSHIN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHFAM,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHLIST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHNET,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHOTH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHPUB,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHREA,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHSIGN,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEARCHSTOP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEWBREAK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEWTYPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSEWUSERS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSTORIES,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSUBDIV,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JSUITYRRND,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTENURE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTIMESHARE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTOTBALAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTOTHCAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTOTROOMS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JTRASHAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JUFINROOMS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JUNITFLOORS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JUNITSIZE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JUPKEEP,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JUTILAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACANCY,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACINHER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACINVEST,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACMONTHS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACOTH,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACPRIRES,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACREC,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACRESDAYS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACRNTDAYS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JVACSELL,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWALLCRACK,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWALLSIDE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWALLSLOPE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWASHER,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWATERAMT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWATSOURCE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWINBARS,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWINBOARD,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JWINBROKE,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+JYRBUILT,#N/A,#N/A,#N/A,N/A,N/A,FALSE,TRUE
+RENT,Monthly rent amount,"Respondents are first asked FRENT (How many times a year is the rent on your unit due?), then RENT (How much is the rent?). The values shown in the microdata has been converted to the monthly amount.",See User Notes,,TRUE,FALSE,FALSE
+BATHEXCLU,Flag indicating the unit's bathroom facilities are for the exclusive use of the household,This question is only asked when the respondent has earlier reported no bathrooms or half baths. Respondents are then asked a follow-up question if they have access to a bathroom outside of the unit within the building or outside of the building. AHS began imputing BATHEXCLU in 2017.,"Earlier you reported not having a bathroom in your unit, is your bathroom: Outside the apartment or unit, but inside the building? Or Outside the building?",Binary,TRUE,FALSE,FALSE
+DISHWASH,Flag indicating unit has a working dishwasher,,Does your unit have a dishwasher in working order?,Binary,TRUE,FALSE,FALSE
+GARAGE,Flag indicating unit has a garage or carport,,Is a garage or carport included with this unit?,Binary,TRUE,FALSE,FALSE
+DINING,Number of dining rooms in unit,,How many separate dining rooms?,Continuous,TRUE,FALSE,FALSE
+LAUNDY,Number of laundry or utility rooms in unit,,"How many laundry, utility, or pantry rooms?",Continuous,TRUE,FALSE,FALSE
+STORIES,Number of stories in building,"STORIES is asked only when the housing unit is in a multiunit building. For single family units and manufactured/mobile homes, STORIES has the same value as UNITFLOORS.",How many stories are there in this building ?,Continuous,TRUE,FALSE,FALSE
+NOSTEP,Flag indicating unit's entrance is accessible without climbing up or down any stairs,,Is it possible to enter this unit WITHOUT climbing up or down any steps or stairs? Please consider all entrances and any ramps that could be used.,Binary,TRUE,FALSE,FALSE
+GUTREHB,Flag indicating unit has undergone a gut rehabilitation in the last 10 years,,"Gut rehabilitation is defined as the general replacement of the interior of a building including the HVAC, plumbing and electrical components. Has this housing unit undergone a gut rehabilitation in the last 10 years?",Binary,FALSE,FALSE,FALSE
+CONDO,Flag indicating unit is a condominium,The coding for this variable changed in 2015. It is now simply a flag indicating if the unit is a condo. The variable COOP now captures the same information for cooperatives.,Is this unit part of a condominium?,Binary,TRUE,FALSE,FALSE
+SEARCHFAM,"Flag indicating respondent, who moved in last two years, found home through family, friends, or other word of mouth",,"Did you find your home through family, friends, or other word of mouth?",Binary,TRUE,FALSE,FALSE
+SEARCHLIST,"Flag indicating respondent, who moved in last two years, found home through apartment rental agency listing",,Did you find your home on an apartment rental agency listing?,Binary,TRUE,FALSE,FALSE
+SEARCHNET,"Flag indicating respondent, who moved in last two years, found home through the Internet",,"Did you find your home on an internet site (such as Craig's List, apartment.com, realtor.com, or Zillow)?",Binary,TRUE,FALSE,FALSE
+SEARCHOTH,"Flag indicating respondent, who moved in last two years, found home through some other way",,Did you find your home in some other way?,Binary,TRUE,FALSE,FALSE
+SEARCHPUB,"Flag indicating respondent, who moved in last two years, found home through newspaper or publication",,Did you find your home in a newspaper or other publication?,Binary,TRUE,FALSE,FALSE
+SEARCHREA,"Flag indicating respondent, who moved in last two years, found home through real estate agent",,Did you find your home from talking with a real estate agent?,Binary,TRUE,FALSE,FALSE
+SEARCHSIGN,"Flag indicating respondent, who moved in last two years, found home through sign outside of building",,Did you find your home on a sign on outside of building/house?,Binary,TRUE,FALSE,FALSE
+RMCHANGE,"Flag indicating respondent, who moved in last two years, moved because of change in household",,"Did you choose to move because of a change in household or family size, including marriage, divorce, separation, or child birth or adoption?",Binary,TRUE,FALSE,FALSE
+RMCOMMUTE,"Flag indicating respondent, who moved in last two years, moved to reduce commute",,Did you choose to move to reduce commuting time?,Binary,TRUE,FALSE,FALSE
+RMCOSTS,"Flag indicating respondent, who moved in last two years, moved to reduce housing costs",,Did you choose to move to reduce your housing costs?,Binary,TRUE,FALSE,FALSE
+RMFAMILY,"Flag indicating respondent, who moved in last two years, moved for family",,"Did you choose to move to be closer to family, including for health reasons, economic reasons, or for any other reasons?",Binary,TRUE,FALSE,FALSE
+RMHOME,"Flag indicating respondent, who moved in last two years, moved for better home",,Did you choose to move to upgrade to a larger home or a better quality home?,Binary,TRUE,FALSE,FALSE
+RMHOOD,"Flag indicating respondent, who moved in last two years, moved to be in more desirable neighborhood",,Did you choose to move to be in a more desirable neighborhood?,Binary,TRUE,FALSE,FALSE
+RMJOB,"Flag indicating respondent, who moved in last two years, moved for job",,Did you choose to move for a new job or job transfer?,Binary,TRUE,FALSE,FALSE
+RMOWNHH,"Flag indicating respondent, who moved in last two years, moved to form household",,Did you choose to move to form your own household?,Binary,TRUE,FALSE,FALSE
+RMOTHER,"Flag indicating respondent, who moved in last two years, moved for another reason",,Did you choose to move for some other reason?,Binary,TRUE,FALSE,FALSE
+HMRACCESS,Flag indicating home improvements done to make home more accessible for elderly or disabled in last two years,,Did you do any of these home improvements to make your home more accessible for the elderly or disabled?,Binary,FALSE,FALSE,FALSE
+HMRENEFF,Flag indicating home improvements done to make home more energy efficient in last two years,,Did you do any of these home improvements to improve energy efficiency?,Binary,FALSE,FALSE,FALSE
+HMRSALE,Flag indicating home improvements done to get house ready for sale in last two years,,Did you do any of these home improvements to get your house ready for sale?,Binary,FALSE,FALSE,FALSE
+RATINGHS,Rating of unit as a place to live,,"On a scale of 1 to 10, how would you rate your unit as a place to live?",Target,TRUE,FALSE,FALSE
+RATINGNH,Rating of neighborhood as place to live,,How would you rate your neighborhood on a scale of 1-10?,Target,TRUE,FALSE,FALSE
+NHQPCRIME,Agree or Disagree: This neighborhood has a lot of petty crime,"Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",Do you agree or disagree with the following statement: This neighborhood has a lot of petty crime.,Binary,FALSE,FALSE,FALSE
+NHQPUBTRN,"Agree or Disagree: This neighborhood has good bus, subway, or commuter train service","Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.","Do you agree or disagree with the following statement: This neighborhood has good bus, subway, or commuter train service.",Binary,FALSE,FALSE,FALSE
+NHQRISK,Agree or Disagree: This neighborhood is at high risk for floods or other disasters,"Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",Do you agree or disagree with the following statement: This neighborhood is at high risk for floods or other disasters.,Binary,FALSE,FALSE,FALSE
+NHQSCHOOL,Agree or Disagree: This neighborhood has good schools,"Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",Do you agree or disagree with the following statement: This neighborhood has good schools.,Binary,FALSE,FALSE,FALSE
+NHQSCRIME,Agree or Disagree: This neighborhood has a lot of serious crime,"Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",Do you agree or disagree with the following statement: This neighborhood has a lot of serious crime.,Binary,FALSE,FALSE,FALSE
+NORC,Flag indicating respondent thinks the majority of neighbors 55 or older,"Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",Sometimes communities that are not age-restricted still attract certain age groups. Do you think the majority of your neighbors are 55 or over?,Binary,FALSE,FALSE,FALSE
+SUBDIV,Flag indicating house is part of a subdivision or housing development,,Is your home part of a subdivision or housing development?,Binary,FALSE,FALSE,FALSE
+NOWIRE,Flag indicating electrical wiring concealed by walls,,Is all the electrical wiring in the finished areas of this unit either concealed inside walls or under protective metal or plastic coverings?,Binary,FALSE,FALSE,FALSE
+TENURE,Owner or renter status of unit,,"Is this unit (1) Owned or being bought by someone in your household?, (2) Rented?, or (3) Occupied without payment of rent?",Categorical,FALSE,FALSE,FALSE
+MHWIDE,Type of manufactured or mobile home,,"Is the mobile home a single-wide, double-wide, or triple-wide unit?",Binary,FALSE,FALSE,FALSE
+PLUGS,Flag indicating every room has working electrical plug,,Does every room have an electrical outlet or wall plug that works?,Binary,FALSE,FALSE,FALSE
+PORCH,Flag indicating unit has porch or deck or balcony or patio,,"Does this unit have a porch, deck, balcony, or patio?",Binary,FALSE,FALSE,FALSE
+LEAKO,Flag indicating outside water leaks in last 12 months,"Respondents were first asked LEAK1 (Did water ever leak into your home from the outside?), and if they replied yes, were then asked LEAK2 (Did water leak in from the outside within the past 12 months?). AHS began imputing LEAKO in 2017.",Did water leak in from the outside within the past 12 months?,Binary,FALSE,FALSE,FALSE
+LEAKI,Flag indicating inside water leaks in last 12 months,"Respondents were first asked ILEAK1 (Since you've lived here, did water leak in--from broken pipes or water heaters, backed up plumbing, another unit?), and if they replied yes, were then asked ILEAK2 (Did any inside water leaks happen within the past 12 months?). AHS began imputing LEAKI in 2017.",Did any inside water leaks happen within the past 12 months?,Binary,FALSE,FALSE,FALSE
+NOTOIL,Flag indicating if unit had any toilet breakdowns in last 3 months,"NOTOIL is determined using IFTLT1 (Was there any time in the past year when your toilet was broken, or stopped up, or otherwise not working so you couldn't use it?) and IFTLT2 (Did that happen at all within the past 3 months?). This question is only asked if the respondent replied that they had a flush toilet. AHS began imputing NOTOIL in 2017.",See User Notes,Binary,FALSE,FALSE,FALSE
+PAINTPEEL,Flag indicating interior area of peeling paint larger than 8 x 11,"Respondents were first asked BIGP1 (Does this unit have any areas of peeling paint or broken plaster?), and if they replied yes, were then asked BIGP2 (Are any of these areas bigger than 8 inches by 11 inches?).",See User Notes,Binary,FALSE,FALSE,FALSE
+HOWBUY,Description of how owner obtained unit,HOWBUY is determined using CUSHOM (How did you obtain this unit?) and PREOCC (Did you receive the home as a gift or inheritance or did you purchase it?).,See User Notes,Categorical,FALSE,FALSE,FALSE
+OCCJANUR,Flag indicating unit is typically occupied in January,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCFEBRU,Flag indicating unit is typically occupied in February,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCMARCH,Flag indicating unit is typically occupied in March,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCAPRIL,Flag indicating unit is typically occupied in April,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCMAY,Flag indicating unit is typically occupied in May,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCJUNE,Flag indicating unit is typically occupied in June,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCJULY,Flag indicating unit is typically occupied in July,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCAUGUST,Flag indicating unit is typically occupied in August,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCSEPTEM,Flag indicating unit is typically occupied in September,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCOCTOB,Flag indicating unit is typically occupied in October,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCNOVEM,Flag indicating unit is typically occupied in November,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCDECEM,Flag indicating unit is typically occupied in December,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OCCYRRND,Flag indicating unit is typically occupied year-round,,During what months is this unit occupied during a typical year? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEADINSP,Flag indicating lead pipes inspected before purchase,,"When you got this unit, did anyone make inquiries or have this unit inspected or tested for lead pipes?",Binary,FALSE,FALSE,FALSE
+MONLSTOCC,Number of months since this unit has been occupied as permanent home,,How many months has it been since this unit was occupied as a permanent home?,Continuous,FALSE,FALSE,FALSE
+SUITYRRND,Flag indicating this unit is suitable for year round use,,Does the construction and heating of this housing unit make it suitable for year round use?,Binary,FALSE,FALSE,FALSE
+TIMESHARE,Flag indicating ownership of unit time shared,,Is the ownership of this housing unit time-shared?,Binary,FALSE,FALSE,FALSE
+VACRESDAYS,Number of nights owner spends at this unit,,"In the past year, how many nights did the owner(s) stay in this unit?",Categorical,FALSE,FALSE,FALSE
+VACRNTDAYS,Number of nights this unit was rented out,,"In the past year, how many nights was this unit rented out?",Categorical,FALSE,FALSE,FALSE
+PERMNEAR,Flag indicating this unit is within 150 miles of owners residence,,Is this unit within 150 miles of the owner's current residence?,Binary,FALSE,FALSE,FALSE
+VACPRIRES,Flag indicating this was a previous usual residence,,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+VACREC,Flag indicating this unit is used for recreational purposes,,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+VACINVEST,Flag indicating this unit is used for investment purposes,,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+VACSELL,"Flag indicating the owner wishes to sell this unit, but has not been able to do so",,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+VACINHER,Flag indicating this unit was inherited,,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+VACOTH,Flag indicating this unit is owned for some other reason,,Which of the following reasons is why the owner owns this unit? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+OWNLOT,Flag indicating owner owns the lot,"OWNLOT is determined by using information from multiple items, including OWNLOT1, OWNLOT2 and INCS2. OWNLOT in 2013 and earlier was only provided for mobile homes. However, there are other situations where the unit, but not the land, is owned. This sometimes occurs on university property where the unit itself is owned, but the land is rented.",See User Notes,Binary,TRUE,FALSE,FALSE
+RENTCNTRL,Flag indicating rent is limited by rent control or stabilization,RENTCNRL is determined by either RCNTRL1 or RCNTRL2.,Does the government limit the rent on the unit through rent control or rent stabilization?,Binary,FALSE,FALSE,FALSE
+RENTSUB,Type of rental subsidy or reduction (based on respondent report),"RENTSUB is determined using multiple items collected during the interview: 1 = Public Housing (if PROJ1 (Is the housing authority your landlord?) or PROJ2 (Is the building owned by the public housing authority?) is reported to be yes) 2 = Portable Voucher (else if VCHER (Does your household have a housing voucher?) and VCHRMOV (Can you use your housing voucher to move to another location?) are reported yes) 3 = Non-Portable Voucher (else if VCHER is yes and VCHRMOV is no, dk, or refused) 4 = Other Federal/State/Local Subsidy (else if SUBRNT1 (Is your rent amount lower because you are in either a Federal, State or local government housing program?) or SUBRNT2 (Does the Federal, State, or local government pay some of the cost of the unit?) are reported yes) 5 = Rent Reduction Requiring Annual Recertification Not Reported Above (else if RENEW (Do you have to re-certify to determine the amount of rent you pay?) is yes) 6 = Rent Reduction Because HH Member Works for Owner (else if RNTADJ1 (Is rent reduced for this unit because someone in the household works for the owner?) is yes) 7 = Rent Reduction Because HH Member Related to Owner (else if RNTADJ2 (Is rent reduced for this unit because someone in the household is related to the owner?) is yes)",See User Notes,Binary,FALSE,FALSE,FALSE
+NEARABAND,Number of buildings that are abandoned or vandalized within 1/2 block of this housing unit,"NEARABAND is determined using EABAN1 (Are there any vandalized or abandoned buildings within half a block of this unit?) and EABAN2 ( Is there more than one vandalized or abandoned building?). Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",See User Notes,Binary,FALSE,FALSE,FALSE
+NEARBARCL,Number of buildings with bars on windows within 1/2 block of this housing unit,"NEARBARCL is determined using EBARCL1 (Now, thinking of ALL of the buildings that are within half a block of your unit, do any of these buildings have metal bars on their windows?) and EBARCL2 (Is there more than one building with metal bars on the windows?). Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",See User Notes,Binary,FALSE,FALSE,FALSE
+NEARTRASH,"Frequency of trash, litter, or junk in streets, lots, or properties within 1/2 block of this housing unit","NEARTRASH is determined using EJUNK1 (Is there trash, litter or junk in the streets, roads, empty lots or on any properties within half a block of this unit?) and EJUNK2( Is there a small amount or a large amount of trash, litter or junk?). Beginning with 2017, URE (INTSTATUS 2) and vacant (INTSTATUS 3) interviews are not asked this question. Use caution when comparing 2017 to prior years.",See User Notes,Binary,FALSE,FALSE,FALSE
+INTLANG,Interview language,"This question is not asked of the respondent. The Field Representative provided the language information as the interview was being completed. This information is recorded for all Occupied, Vacant, and URE interviews.",In what language was the interview conducted?,Categorical,FALSE,FALSE,FALSE
+DIVISION,Census division,"DIVISION appears on the National PUF only. The Metro IUF, not the PUF, includes DIVISION (due to disclosure reasons).",NA,Categorical,TRUE,FALSE,FALSE
+OMB13CBSA,2013 OMB CBSA code,These values adhere to the Office of Management and Budget (OMB) definitions for Core Based Statistical Areas (CBSAs). More information on these can be found at https://www.census.gov/programs-surveys/metro-micro.html. OMB13CBSA codes are only produced for cases in the 15 largest metropolitan areas (on the National microdata) and cases on the Metropolitan microdata files.,NA,Categorical,TRUE,FALSE,FALSE
+WEIGHT,Final weight,"Each housing unit in the AHS represents itself and a number of other units. In order to develop estimates using the AHS the final weight must be applied to the survey data. The final weight starts with the inverse of the sampling fraction (PWT) and incorporates several adjustment factors that minimize sampling errors and errors from incomplete survey data. The Noninterview Adjustment Factor increases the weight of each interviewed unit to account for sampled units that were not interviewed. This adjustment is applied to five classes of geography: central cities, urban and rural inside MSAs, urban and rural outside MSAs. Over time the geographic boundaries related to these five classes may be redefined by local or state governments. For National surveys, WEIGHT uses the boundaries as they were officially defined in 1980. For Metro surveys, WEIGHT uses the boundaries as they were defined in the decennial year prior to the survey year. More information on weighting can be found at www.census.gov/programs-surveys/ahs/tech-documentation/def-errors-changes.html. WEIGHT may be used with all Metro surveys, and for National survey years 1997, 1999, and 2015 and later. For National survey years 2001 to 2013, WGT90GEO should be used as the final weight.",Final weight,#N/A,#N/A,FALSE,FALSE
+SP1WEIGHT,Final weight for split sample: group 1 topical modules,"Some AHS modules are considered to be ""topical"" as opposed to ""core."" Topical modules are included on a rotating basis and are usually asked of only half the AHS sample. When a topical module is only asked of half the sample a special weight is provided that must be used for estimating those data items. SP1WEIGHT is only present for records that are in group 1; SP2WEIGHT is only present for records in group 2. In 2017, Group 1 included the topic Commuting; Group 2 included Disaster Planning. In 2015, Group 1 included the topics Art, Food Security, and Housing Counseling; Group 2 included Healthy Homes.",NA,#N/A,#N/A,FALSE,FALSE
+SP2WEIGHT,Final weight for split sample: group 2 topical modules,"Some AHS modules are considered to be ""topical"" as opposed to ""core."" Topical modules are included on a rotating basis and are usually asked of only half the AHS sample. When a topical module is only asked of half the sample a special weight is provided that must be used for estimating those data items. SP1WEIGHT is only present for records that are in group 1; SP2WEIGHT is only present for records in group 2. In 2017, Group 1 included the topic Commuting; Group 2 included Disaster Planning. In 2015, Group 1 included the topics Art, Food Security, and Housing Counseling; Group 2 included Healthy Homes.",NA,#N/A,#N/A,FALSE,FALSE
+INTMODE,Interview mode,Interview mode is determined using information provided by the Field Representative.,NA,Binary,FALSE,FALSE,FALSE
+INTSTATUS,Interview status,Interview status is determined using information provided by the Field Representative.,NA,Categorical,FALSE,FALSE,FALSE
+INTMONTH,Interview month,"Interview month is determined using the instrument (laptop) date stamp for the interview. If the respondent was interviewed in more than one month (for example, a follow-up visit was needed to complete the interview), INTMONTH reflects the last contact.",NA,Categorical,FALSE,FALSE,FALSE
+BLD,Type of housing unit,"BLD is determined using information from multiple items, including HTYPE, ISTYPE, and NUNITS.",See User Notes,Categorical,TRUE,FALSE,FALSE
+ENTRYSYS,Flag indicating entry system required to access multifamily building,,"Does access to your building require a special entry system such as entry codes, key cards, or security guard approval?",Binary,FALSE,FALSE,FALSE
+HHSEX,Sex of householder,,Are you male or female?,Binary,TRUE,FALSE,FALSE
+HHMAR,Marital status of householder,,"Are you now married, widowed, divorced, separated or never married?",Categorical,TRUE,FALSE,FALSE
+HHSPAN,Spanish origin of householder,,"Are you Mexican, Mexican American, Chicano, Puerto Rican, Cuban, Cuban American, or some other Spanish, Hispanic, or Latino group?",Binary,FALSE,FALSE,FALSE
+HHCITSHP,US citizenship of householder,"HHCITSHP is determined using CITIZN (Are you a citizen of the United States?), CTZNA (Were you born a citizen of the United States?), and CTZNB (Did you become a citizen of the United States through naturalization?).",See User Notes,Binary,FALSE,FALSE,FALSE
+MILHH,Type of military household,,NA,Categorical,TRUE,FALSE,FALSE
+HHAGE,Age of householder,"AGE may be determined from either the birthdate (if provided) or the respondent's best estimate of age. AGE is altered, or ""perturbed"", in the public use microdata files to protect the confidentiality of survey respondents.",See User Notes,Continuous,TRUE,FALSE,FALSE
+HHMOVE,Year householder moved in,,When did you move to this unit?,Continuous,TRUE,FALSE,FALSE
+HHINUSYR,Year householder came to US,,When did you come to live in the United States?,Continuous,FALSE,FALSE,FALSE
+HHRACE,Race of householder,"The IUF contains the following additional response code detail: 20=""Other combinations of 2 or 3 races,"" 21=""Other combinations of 4 or 5 races.""",Please choose one or more races that you consider yourself to be.,Categorical,TRUE,FALSE,FALSE
+HHRACEAS,Race of householder (Asian group),,Which of the following Asian groups are you?,Categorical,FALSE,FALSE,FALSE
+HHRACEPI,Race of householder (Native Hawaiian or other Pacific Islander group),,Which of the following Native Hawaiian or other Pacific Islander groups are you?,Categorical,FALSE,FALSE,FALSE
+HHGRAD,Educational level of householder,The type for this variable changed in 2015 from numeric to character.,What is the highest level of school you have completed or the highest degree you have received?,Categorical,FALSE,FALSE,FALSE
+HHNATVTY,Country of birth of householder,,In what country were you born?,Categorical,TRUE,FALSE,FALSE
+PARTNER,Flag indicating unmarried partner household,,NA,Continuous,TRUE,FALSE,FALSE
+HSHLDTYPE,Type of household,,NA,Categorical,TRUE,FALSE,FALSE
+NUMELDERS,Number of persons age 65 and over living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMADULTS,Number of persons age 18 and over living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMNONREL,Number of non-relatives living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+HHYNGKIDS,"Number of the householder's children under age 6, living in this unit",,NA,Continuous,TRUE,FALSE,FALSE
+HHOLDKIDS,"Number of the householder's children age 6 through 17, living in this unit",,NA,Continuous,TRUE,FALSE,FALSE
+NUMVETS,Number of veterans living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMYNGKIDS,Number of children under age 6 living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMOLDKIDS,Number of children age 6 through 17 living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMSUBFAM,Number of subfamilies living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMSECFAM,Number of secondary families living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+NUMPEOPLE,Number of persons living in this unit,,NA,Continuous,TRUE,FALSE,FALSE
+HHADLTKIDS,"Number of the householder's unmarried children age 18 and over, living in this unit",,NA,Continuous,TRUE,FALSE,FALSE
+GRANDHH,Flag indicating grandparent headed household with no parent present,,NA,Binary,FALSE,FALSE,FALSE
+MULTIGEN,Type of multigenerational household,,NA,Continuous,TRUE,FALSE,FALSE
+UFINROOMS,Number of other unfinished rooms in unit,,How many other UNFINISHED rooms?,Continuous,TRUE,FALSE,FALSE
+MHANCHOR,Type of mobile home anchoring,,"Is your mobile home anchored by tiedowns, bolts, or some other means?",Categorical,FALSE,FALSE,FALSE
+LOTSIZE,Lot size (acres),"For disclosure reasons LOTSIZE is a categorical value; internal data users may want to use LOTSIZE_IUF. LOTSIZE may be determined using multiple items. The respondent may reply in either square feet, feet, or acres. If the respondent is uncertain the dimensions of the lot are asked. LOTSIZE is not asked of condominiums, cooperatives, or multi-family units because the lot for these types of units is typically shared community space.",See User Notes,Continuous,TRUE,FALSE,FALSE
+FINROOMS,Number of other finished rooms in unit,"FINROOMS is the sum of LIVING (number of living rooms), FAMROOMS (family rooms, great rooms, or TV rooms), RECROOMS (recreation rooms), DENS (dens or libraries), and OTHFN (other finished rooms).",See User Notes,Continuous,TRUE,FALSE,FALSE
+YRBUILT,Year unit was built,"For disclosure reasons YRBUILT is a categorical value; internal data users may want to use YRBUILT_IUF. The year the unit was built may be determined using multiple items. The respondent is first asked for the year (BUILTQ), but if they don't know they are asked what decade (DECADEQ), and may also be asked how many years old the building is (YRSOLD).",See User Notes,Date,FALSE,FALSE,FALSE
+HOA,Flag indicating unit is part of a homeowner's association,,Is this unit part of a homeowner association?,Binary,FALSE,FALSE,FALSE
+FOUNDTYPE,Type of foundation,"FOUNDTYPE is determined using information from CELAR1Q (Is this house built with a basement, crawl space, concrete slab, or some other way?), CELAR2Q (Is the basement under all or part of the house?), and MHSETQ (Is the manufactured/mobile home set up on a permanent masonry foundation, a concrete pad, or up on blocks?).",See User Notes,Categorical,FALSE,FALSE,FALSE
+UNITFLOORS,Number of floors within the unit,FLOORS is calculated only for single family and mobile/manufactured units (FLOORS will be the same value as STORIES for these units).,How many stories are there in this building ?,Continuous,FALSE,FALSE,FALSE
+UNITSIZE,Unit size (square feet),"For disclosure reasons, UNITSIZE is a categorical variable. Internal data users can use UNITSIZE_IUF to obtain the reported square footage.","Thinking about all the rooms you mentioned earlier, as well as the hallways and entry ways in this housing unit, about how many square feet is that?",Continuous,TRUE,FALSE,FALSE
+BEDROOMS,Number of bedrooms in unit,,How many bedrooms are in this unit?,Continuous,TRUE,FALSE,FALSE
+KITCHENS,Number of kitchens in unit,,How many kitchens?,Continuous,TRUE,FALSE,FALSE
+WATSOURCE,Source of water for unit,,"Does most of the water for this housing unit come from a water system, either public or private, from an individual well, or from some other source?",Binary,FALSE,FALSE,FALSE
+SEWUSERS,Number of units connected to septic tank or cesspool,,How many homes are connected to the septic tank or cesspool?,Continuous,FALSE,FALSE,FALSE
+KITEXCLU,Flag indicating the unit's kitchen facilities are for the exclusive use of the household,,Are these kitchen facilities for your household's use only?,Binary,TRUE,FALSE,FALSE
+FRIDGE,Flag indicating unit has a working refrigerator,,Does your unit have a refrigerator in working order?,Binary,TRUE,FALSE,FALSE
+KITCHSINK,Flag indicating unit has a kitchen sink,,Does this housing unit have a kitchen sink?,Binary,TRUE,FALSE,FALSE
+WASHER,Flag indicating unit has a working washing machine,,Does your unit have a washing machine in working order?,Binary,TRUE,FALSE,FALSE
+COOKTYPE,Type of cooking equipment,"COOKTYPE is determined using multiple items including COOK, BURNER, and OVEN.",See User Notes,Categorical,FALSE,FALSE,FALSE
+COOKFUEL,Type of fuel used most for cooking,"COOKFUEL is primarily determined using CFUEL (What fuel is used MOST for cooking--electricity, gas or something else?), but if the respondent reports ""gas,"" GASPI2/GASPIP (is the unit's heating fuel from Is it from underground pipes or bottled gas) is used to distinguish whether the unit uses LP or Piped Gas.",See User Notes,Categorical,TRUE,FALSE,FALSE
+DRYER,Type of clothes dryer,"DRYER is determined using DRYQ (Does your unit have a clothes dryer in working order?) and DFUELQ (What type of fuel does the dryer use?) but if the respondent reports using ""gas"" GASPI2/GASPIP (is the unit's heating fuel from Is it from underground pipes or bottled gas) is used to distinguish whether the unit uses LP or Piped Gas.",See User Notes,Categorical,FALSE,FALSE,FALSE
+SEWTYPE,Type of sewer system,"SEWTYPE is determined using PUBSEWQ (Is your home connected to a public sewer?), SEWDISQ (What means of sewage disposal does your home have?) for units that report not being connected to a public sewer, and SEWDISTP (What type of septic tank or cesspool system do you have?), which is asked for units that report using a septic tank or cesspool.",See User Notes,Categorical,FALSE,FALSE,FALSE
+BATHROOMS,Number of bathrooms in unit,"BATHROOMS is determined using information from BATHS (A full bathroom is one that has a sink with running water, a toilet, and either a bathtub or shower. How many full bathrooms are in this unit?) and HALFB (A half-bathroom is one that has either a toilet or a bathtub or a shower. How many half bathrooms are in this unit?), as well as BSINK, TUB, and TOILET (Does this unit have a bathroom sink, bathtub or shower, flush toilet).",See User Notes,Continuous,TRUE,FALSE,FALSE
+HOTWATER,Type of hot water system,"HOTWATER is determined using multiple items including WFUELQ (What type of fuel is used most to heat water?), SUNFUEL (How do you use solar energy to heat your water? Directly, indirectly, or other),SUNFUELSP (Specify other way sun heats water), HOTPIP1 (Does your full bath contain both hot and cold water?), HOTPIP2 for units with one or more half baths and no reported full baths (Does your unit contain both hot and cold water?), HOTPIPP (Is there both hot and cold water anywhere in your home?) for units that have one full bath without hot and cold running water.",See User Notes,Categorical,FALSE,FALSE,FALSE
+HEATFUEL,Type of main heating fuel,"HEATFUEL is determined using multiple items including HFUELA, HFUELB, HFUELC, and GASPIP2.",What fuel is used most for heating this unit?,Categorical,FALSE,FALSE,FALSE
+FIREPLACE,Flag indicating unit has a useable fireplace,,Does this unit have a useable fireplace?,Categorical,TRUE,FALSE,FALSE
+ACPRIMARY,Type of primary air conditioning,"ACPRIMARY and ACSECNDRY are determined using multiple questions including AIRSYS1 (Does the heat pump provide air conditioning to your home?) or AIRSYS2 (Does your apartment have central air conditioning?), OARSYS1 (Unit's heat pump provides air conditioning) or OARSYS2 (Does your home have another central air conditioning system?), AIR (Do you use any room air conditioners?), and NUMAIR (How many?). It also incorporates AFUEL and OAFUEL, which ask what type of fuel the central and secondary central air conditioning systems use.",See User Notes,Categorical,FALSE,FALSE,FALSE
+ACSECNDRY,Type of secondary air conditioning,See user notes for ACPRIMARY.,See User Notes,Categorical,FALSE,FALSE,FALSE
+HEATTYPE,Type of main heating equipment,HEATTYPE is determined using multiple items including HCENTA/B/C and HPORTA/B/C.,See User Notes,Categorical,FALSE,FALSE,FALSE
+COLD,Flag indicating unit was uncomfortably cold for 24 hours or more last winter,This question is only asked if the respondent replied that they had heating equipment and lived in the home during the winter. AHS began imputing COLD in 2017.,"Last winter, for any reason, was your unit so cold for 24 hours or more that you were uncomfortable?",Categorical,FALSE,FALSE,FALSE
+COLDEQ,Flag indicating unit as uncomfortably cold for 24 hours or more last winter because the main heating equipment broke down,"This question is only asked if the respondent replied ""yes"" to COLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?). AHS began imputing COLDEQ in 2017.",Was that because the main heating equipment broke down?,Binary,FALSE,FALSE,FALSE
+NOWAT,Flag indicating if unit was completely without running water in the last 3 months,This question is only asked if the respondent replied that the unit has both hot and cold water or has two or more bathrooms.,Was your home ever completely without running water in the past 3 months?,Binary,FALSE,FALSE,FALSE
+COLDUTIL,Flag indicating unit was uncomfortably cold for 24 hours or more last winter due to utility interruption,"This question is only asked if the respondent replied ""yes"" to OTHCLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?), and they indicated that the unit was cold for reasons other than the main heating equipment breaking down.",What was the reason (why housing unit was so cold for 24 hours or more that you were uncomfortable)? Mark all that apply,Binary,FALSE,FALSE,FALSE
+COLDHTCAP,Flag indicating unit was uncomfortably cold for 24 hours or more last winter due to inadequate heating capacity,"This question is only asked if the respondent replied ""yes"" to OTHCLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?), and they indicated that the unit was cold for reasons other than the main heating equipment breaking down.",What was the reason (why housing unit was so cold for 24 hours or more that you were uncomfortable)? Mark all that apply,Binary,FALSE,FALSE,FALSE
+COLDINSUL,Flag indicating unit was uncomfortably cold for 24 hours or more last winter due to inadequate insulation,"This question is only asked if the respondent replied ""yes"" to OTHCLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?), and they indicated that the unit was cold for reasons other than the main heating equipment breaking down.",What was the reason (why housing unit was so cold for 24 hours or more that you were uncomfortable)? Mark all that apply,Binary,FALSE,FALSE,FALSE
+COLDCOST,Flag indicating unit was uncomfortably cold for 24 hours or more last winter due to cost of heating,"This question is only asked if the respondent replied ""yes"" to OTHCLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?), and they indicated that the unit was cold for reasons other than the main heating equipment breaking down.",What was the reason (why housing unit was so cold for 24 hours or more that you were uncomfortable)? Mark all that apply,Binary,FALSE,FALSE,FALSE
+COLDOTHER,Flag indicating unit was uncomfortably cold for 24 hours or more last winter because of some other reason,"This question is only asked if the respondent replied ""yes"" to OTHCLD (Last winter, for any reason, was your housing unit so cold for 24 hours or more that you were uncomfortable?), and they indicated that the unit was cold for reasons other than the main heating equipment breaking down.",What was the reason (why housing unit was so cold for 24 hours or more that you were uncomfortable)? Mark all that apply,Binary,FALSE,FALSE,FALSE
+LEAKOROOF,Flag indicating the outside water leak came from the roof,"Respondents were first asked LEAK2 (Did water leak in from the outside within the past 12 months?), and if they replied yes, were then asked WHERELK (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKOBASE,Flag indicating the outside water leak came from the basement,"Respondents were first asked LEAK2 (Did water leak in from the outside within the past 12 months?), and if they replied yes, were then asked WHERELK (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKOWALL,Flag indicating the outside water leak came from the walls or around closed windows or closed doors,"Respondents were first asked LEAK2 (Did water leak in from the outside within the past 12 months?), and if they replied yes, were then asked WHERELK (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKOOTH,Flag indicating the outside water leak came from somewhere else,"Respondents were first asked LEAK2 (Did water leak in from the outside within the past 12 months?), and if they replied yes, were then asked WHERELK (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKIPLUM,Flag indicating the inside water leak came from own plumbing fixtures backing up or overflowing,"Respondents were first asked ILEAK2 (Did any inside water leaks happen within the past 12 months?), and if they replied yes, were then asked WHERELK2 (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKIPIPE,Flag indicating the inside water leak came from pipes leaking (including pipes from other apartments),"Respondents were first asked ILEAK2 (Did any inside water leaks happen within the past 12 months?), and if they replied yes, were then asked WHERELK2 (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKIWATH,Flag indicating the inside water leak came from broken water heater,"Respondents were first asked ILEAK2 (Did any inside water leaks happen within the past 12 months?), and if they replied yes, were then asked WHERELK2 (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKIOTH,Flag indicating the inside water leak came from other source,"Respondents were first asked ILEAK2 (Did any inside water leaks happen within the past 12 months?), and if they replied yes, were then asked WHERELK2 (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+LEAKIDK,Flag indicating the inside water leak came from unknown source,"Respondents were first asked ILEAK2 (Did any inside water leaks happen within the past 12 months?), and if they replied yes, were then asked WHERELK2 (Where did the water come from?).",Where did the water come from? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+WALLCRACK,Flag indicating inside walls or ceilings have open holes or cracks,,"In the inside walls or ceilings of this housing unit, are there any open holes or cracks wider than the edge of a dime?",Binary,FALSE,FALSE,FALSE
+FLOORHOLE,Flag indicating floor has holes,,Are any holes in the floors big enough for someone to catch their foot on?,Binary,FALSE,FALSE,FALSE
+FNDCRUMB,"Flag indicating foundation has holes, cracks, or crumbling",,"Are there holes or open cracks or crumbling in the foundation of this housing unit--that is, in the base on which the unit stands?",Binary,FALSE,FALSE,FALSE
+ROOFSHIN,Flag indicating roof has missing shingles or other roofing materials,,Does the roof have missing shingles or other missing roofing materials?,Binary,FALSE,FALSE,FALSE
+ROOFHOLE,Flag indicating roof has holes,,Does the roof have any holes?,Binary,FALSE,FALSE,FALSE
+ROOFSAG,Flag indicating roof's surface sags or is uneven,,Does the roof's surface sag or appear uneven?,Binary,FALSE,FALSE,FALSE
+WALLSIDE,"Flag indicating outside walls have missing siding, bricks, or other missing wall materials",,"Do the outside walls have any missing siding, bricks, or other missing wall materials?",Binary,FALSE,FALSE,FALSE
+WALLSLOPE,"Flag indicating outside walls slope, lean, buckle, or slant",,"Do the outside walls slope, lean, buckle, or slant?",Binary,FALSE,FALSE,FALSE
+WINBOARD,Flag indicating windows are boarded up,,Are any of the windows in this housing unit boarded up?,Binary,FALSE,FALSE,FALSE
+WINBROKE,Flag indicating windows are broken,,Are any of the windows in this housing unit broken?,Binary,FALSE,FALSE,FALSE
+WINBARS,Flag indicating unit's windows covered with metal bars,,Are any of the windows in this unit covered with metal bars?,Binary,TRUE,FALSE,FALSE
+COLDEQFREQ,Number of times main heating equipment broke down for 6 hours or more (provided that main heating equipment broke down and unit was uncomfortably cold for 24 hours or more last winter),"This question is only asked if the respondent replied ""yes"" to COLDEQ (meaning they were uncomfortably cold because the heating equipment had broken down). AHS began imputing COLDEQFREQ in 2017.",How many times did main heating equipment break down for 6 hours or more?,Continuous,FALSE,FALSE,FALSE
+NOWATFREQ,Number of times unit was completely without running water in the last 3 months,NOWATFREQ is determined using IFDRY (Have you been completely without running water in the past 3 months?) and NUMDRY (How many of these lasted 6 hours or more?).,How many times was running water not available for 6 hours or more (in the past 3 months)?,Continuous,FALSE,FALSE,FALSE
+NOTOILFREQ,Number of toilet breakdowns within last 3 months that lasted 6 hours or more,"NOTOILFREQ is determined using NUM3TLT (How many times in the last 3 months was the toilet not working?) and NUMTLT (How many of those times was it not working for 6 hours or more?). AHS began imputing NUM3TLT and NUMTLT in 2017. While NOTOILFREQ is not imputed directly, its components are and it's edit flag indicates imputation where one or more of its component variables are imputed.",See User Notes,Continuous,FALSE,FALSE,FALSE
+MOLDKITCH,Flag indicating mold was present in kitchen in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+MOLDBATH,Flag indicating mold was present in bathroom in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+MOLDBEDRM,Flag indicating mold was present in bedroom in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+MOLDBASEM,Flag indicating mold was present in basement in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+MOLDLROOM,Flag indicating mold was present in living room in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+MOLDOTHER,Flag indicating mold was present in some other room in the last 12 months,"Respondents were first asked MOLD (In the last 12 months, was there mold covering an area greater than or equal to the size of an 8 1/2"" x 11"" piece of paper in your unit?), and if they replied yes, were then asked MLDROOM (which room?).",Was the mold in the... ? (Mark all that apply),Binary,FALSE,FALSE,FALSE
+RODENT,Number of times there was signs of rodents in last 12 months,"RODENT is determined using EVROD (Have you ever seen signs of mice or rats inside your home?), M12ROD (Was that in the last 12 months?) and RATFREQ (How often have you seen this evidence in your home in the last 12 months?).",See User Notes,Categorical,FALSE,FALSE,FALSE
+ROACH,Number of times there were signs of live or dead cockroaches in last 12 months,"ROACH is determined using EROACH (Have you ever seen signs of live or dead cockroaches or cockroach feces inside your home? ), M12ROACH (Was that in the last 12 months?) and ROACHFRQ (How often have you seen this evidence in your home in the last 12 months?).",See User Notes,Categorical,FALSE,FALSE,FALSE
+SEWBREAK,Number of sewer breakdowns within last 3 months that last 6 hours or more,SEWBREAK is determined using IFSEW (Did the sewage system break down in the last 3 months?) and NUMSEW ( How many of these breakdowns lasted 6 hours or more?).,See User Notes,Categorical,FALSE,FALSE,FALSE
+FUSEBLOW,Number of times fuses blown or circuit breakers tripped in last 3 months,"FUSEBLOW is determined using IFBLOW (Have any fuses blown or circuit breakers tripped in the last 3 months?) and NUMBLOW (How many times in the last 3 months?). AHS began imputing IFBLOW and NUMBLOW in 2017. While FUSEBLOW is not imputed directly, its components are and it's edit flag indicates imputation where one or more of its component variables are imputed.",See User Notes,Categorical,FALSE,FALSE,FALSE
+VACMONTHS,Number of months unit has been vacant,,How many months has that unit been vacant?,Continuous,FALSE,FALSE,FALSE
+DWNPAYPCT,Down payment percentage,"Respondents could report in either dollars or percentage (DWNAMT - Considering all sources of money, what was the total amount of the down payment? You may answer in dollars or percent.) If reported in dollars (DWNDLR) the value was converted to percent for the microdata. DWNPCT is the Instrument variable used to collect the percentage.",See User Notes,Categorical,FALSE,FALSE,FALSE
+MHMOVE,Flag indicating mobile home to be moved,"MHMOVE (2015 and later) and MHSTAY (pre-2015) contain the same information, but presented differently.","Is this mobile home to remain where it is, or is it to be moved?",Binary,FALSE,FALSE,FALSE
+ELECAMT,Monthly electric amount,"Monthly electric amount represents average monthly costs paid for electricity. Average monthly costs are estimated from regression models developed from the Residential Energy Consumption Survey (RECS) sponsored by the Department of Energy (DOE). The RECS collects data on electricity consumption and costs, as well as some housing and household characteristics similar to those collected in the AHS. Housing and household characteristics and heating and cooling degree days from the AHS are used as inputs to the models. Separate models are applied to units that use electricity alone and those that use both electricity and natural gas. When electricity is billed separately or can be modeled separately, the models estimate electricity consumption, which is converted into costs with price data. When the electric bill is combined with a utility that cannot be modeled separately (i.e., oil, other fuels, trash, water), the models estimate costs with additional information on either the last bill or the respondent's best estimate of average monthly electric costs. Amounts are for occupied units that use and pay for electricity, where the electricity cost is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for electricity or if the electric costs would be included in the rent, condo fee, or other charges.",See User Notes,Continuous,TRUE,FALSE,FALSE
+GASAMT,Monthly gas amount,"Monthly gas amount represents average monthly costs paid for gas (note: the variable GASSOURCE indicates whether gas is delivered through underground pipes or is bottled gas). Average monthly costs are estimated from regression models developed from the Residential Energy Consumption Survey (RECS) sponsored by the Department of Energy (DOE). The RECS collects data on gas consumption and costs, as well as some housing and household characteristics similar to those collected in the AHS. Separate models were developed for piped natural gas and bottled liquid petroleum gas (propane). Housing and household characteristics and heating and cooling degree days from the AHS are used as inputs to the models. When gas is billed separately or can be modeled separately, the models estimate gas consumption, which is converted into costs with price data. When the gas bill is combined with a utility that cannot be modeled separately (i.e., oil, other fuels, trash, water), the models estimate costs with additional information on either the last bill or the respondent's best estimate of average monthly gas costs. Amounts are for occupied units that use and pay for gas, where the gas cost is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for gas or if the gas costs would be included in the rent, condo fee, or other charges.",See User Notes,Continuous,TRUE,FALSE,FALSE
+OILAMT,Monthly oil amount,"Monthly oil amount represents average monthly costs paid for oil. Respondents who use oil are asked to estimate the total cost for fuel oil in the past 12 months. The total amount for the past 12 months is divided by 12 to obtain the average monthly amount. Amounts are for occupied units that use and pay for oil, where the oil cost is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for oil or if the oil costs would be included in the rent, condo fee, or other charges.","In the last year, what was the total cost for fuel oil?",Continuous,TRUE,FALSE,FALSE
+OTHERAMT,Monthly amount for other fuels,"Monthly amount for other fuels represents average monthly costs paid for other fuels (i.e., wood, coal, kerosene, or any other fuel). Respondents who use other fuels are asked to estimate the total cost for other fuels in the past 12 months. The total amount for the past 12 months is divided by 12 to obtain the average monthly amount. Amounts are for occupied units that use and pay for other fuels, where the cost for other fuels is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for other fuels or if the other fuel costs would be included in the rent, condo fee, or other charges.","In the last year, what was the total cost for wood, coal, kerosene, or other fuel?",Continuous,TRUE,FALSE,FALSE
+TRASHAMT,Monthly trash amount,"Monthly trash amount represents average monthly costs paid for garbage and trash collection. Respondents are asked to estimate the total cost for garbage and trash collection in the past 12 months. The total amount for the past 12 months is divided by 12 to obtain the average monthly amount. Amounts for occupied units that pay for garbage and trash collection, where the garbage and trash collection cost is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for garbage and trash collection or if the garbage and trash collection costs would be included in the rent, condo fee, or other charges.","In the last year, what was the total cost for garbage and trash collection?",Continuous,TRUE,FALSE,FALSE
+WATERAMT,Monthly water amount,"Monthly water amount represents average monthly costs paid for water supply and sewage disposal. Respondents are asked to estimate the total cost for their water supply and sewage disposal in the past 12 months. The total amount for the past 12 months is divided by 12 to obtain the average monthly amount. Amounts are for occupied units that pay for their water supply and sewage disposal, where the water supply and sewage disposal cost is not included in rent, site rent, condo fee, or other fee, or included in another utility cost. Costs are not collected for vacant units, but information is collected on whether the unit would be billed separately for water supply and sewage disposal or if the water supply and sewage disposal costs would be included in the rent, condo fee, or other charges.","In the last year, what was the total cost for water supply and sewage disposal?",Continuous,TRUE,FALSE,FALSE
+UTILAMT,Monthly total utility amount,"UTILAMT is the sum of ELECAMT, GASAMT, OILAMT, WATERAMT, OTHERAMT, and TRASHAMT.",NA,Continuous,TRUE,FALSE,FALSE
+REMODJOBS,Total number of home improvement jobs in last two years,,NA,Continuous,FALSE,FALSE,FALSE
+FS,Flag indicating food stamp or supplemental nutrition assistance program recipency (past 12 months),"The universe for FS changed between 2015 and 2017. In 2015 the universe was based on family income and the number of people in the unit. In 2017 it was based on the individual income of people in the unit and other factors such as reporting income from Temporary Assistance for Needy Families (TANF) or if the household reported receiving food assistance in 2015. The 2015 ""conditions in universe"" was INTSTATUS = '1' and ((NUMPEOPLE = 1) and (FINCP <= 35010)) or if ((NUMPEOPLE = 2) and (FINCP <= 47190)) or if ((NUMPEOPLE = 3) and (FINCP <= 59370)) or if ((NUMPEOPLE = 4) and (FINCP <= 71550)) or if ((NUMPEOPLE = 5) and (FINCP <= 83730)) or if ((NUMPEOPLE = 6) and (FINCP <= 95910)) or if ((NUMPEOPLE = 7) and (FINCP <= 108090)) or if ((NUMPEOPLE >= 8) and (FINCP <= 120270))","In the 12 months prior to the date of the interview, did you receive benefits from the Food Stamp Benefits Program or SNAP (the Supplemental Nutrition Assistance Program)?",Binary,FALSE,FALSE,FALSE
+HHHEAR,Flag indicating householder has difficulty hearing,,NA,Binary,TRUE,FALSE,FALSE
+HHSEE,Flag indicating householder has difficulty seeing,,NA,Binary,TRUE,FALSE,FALSE
+HHMEMRY,Flag indicating householder has difficulty concentrating or remembering,,NA,Binary,TRUE,FALSE,FALSE
+HHWALK,Flag indicating householder has difficulty walking or climbing stairs,,NA,Binary,TRUE,FALSE,FALSE
+HHCARE,Flag indicating householder has difficulty dressing or bathing,,NA,Binary,TRUE,FALSE,FALSE
+HHERRND,Flag indicating householder has difficulty doing errands,,NA,Binary,TRUE,FALSE,FALSE
+NUMHEAR,Number of persons living in this unit who have difficulty hearing,This variable is recoded from PHEAR to count the number of people who have a hearing disability and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+NUMSEE,Number of persons living in this unit who have difficulty seeing,This variable is recoded from PSEE to count the number of people who have a seeing disability and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+NUMMEMRY,Number of persons living in this unit who have difficulty concentrating or remembering,This variable is recoded from PMEMRY to count the number of people who have a memory disability and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+NUMWALK,Number of persons living in this unit who have difficulty walking or climbing stairs,This variable is recoded from PWALK to count the number of people who have a walking disability and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+NUMCARE,Number of persons living in this unit who have difficulty dressing or bathing,This variable is recoded from PCARE to count the number of people who have a self-care disability and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+NUMERRND,Number of persons living in this unit who have difficulty doing errands,This variable is recoded from PERRND to count the number of people who have trouble doing errands independently and group them into the categories in this variable.,NA,Categorical,TRUE,FALSE,FALSE
+DISHH,Flag indicating disabled person household,"The DISHH variable is a recode that uses all of the household level disability variables. It has values of '1' and '2' for houses that have a person with a disability or don't have a person with a disability respectively. The value 'M' is used to represent cases that had no positive disability responses and at least one ""don't know"" and/or refusal response.",NA,Binary,FALSE,FALSE,FALSE
+MVG1TYPE,Type of structure of former home (mover group 1),,This question is about where you lived just before moving here. Was that residence a ___.,Categorical,FALSE,FALSE,FALSE
+MVG2TYPE,Type of structure of former home (mover group 2),,This question is about where you lived just before moving here. Was that residence a ___.,Categorical,FALSE,FALSE,FALSE
+MVG3TYPE,Type of structure of former home (mover group 3),,This question is about where you lived just before moving here. Was that residence a ___.,Categorical,FALSE,FALSE,FALSE
+MVG1TEN,Tenure of former home (mover group 1),,This question is about where you lived just before moving here. Was that home ___.,Categorical,FALSE,FALSE,FALSE
+MVG2TEN,Tenure of former home (mover group 2),,This question is about where you lived just before moving here. Was that home ___.,Categorical,FALSE,FALSE,FALSE
+MVG3TEN,Tenure of former home (mover group 3),,This question is about where you lived just before moving here. Was that home ___.,Categorical,FALSE,FALSE,FALSE
+MVG1PER,Number of people in former home (mover group 1),,This question is about where you lived just before moving here. How many people lived in that household just before the move?,Continuous,FALSE,FALSE,FALSE
+MVG2PER,Number of people in former home (mover group 2),,This question is about where you lived just before moving here. How many people lived in that household just before the move?,Continuous,FALSE,FALSE,FALSE
+MVG3PER,Number of people in former home (mover group 3),,This question is about where you lived just before moving here. How many people lived in that household just before the move?,Continuous,FALSE,FALSE,FALSE
+MVG1COST,Comparison of housing costs to former home (mover group 1),,"When you moved, did your housing costs increase, decrease, or stay about the same?",Categorical,TRUE,FALSE,FALSE
+MVG2COST,Comparison of housing costs to former home (mover group 2),,"When you moved, did your housing costs increase, decrease, or stay about the same?",Categorical,TRUE,FALSE,FALSE
+MVG3COST,Comparison of housing costs to former home (mover group 3),,"When you moved, did your housing costs increase, decrease, or stay about the same?",Categorical,TRUE,FALSE,FALSE
+MVG1STAT,Flag indicating former home was owned/rented by someone in current home (mover group 1),MVGXSTAT is determined using XHEAD (Was that unit owned/rented by someone who moved here?) and XREL (Was it owned/rented by a relative?).,See User Notes,Categorical,FALSE,FALSE,FALSE
+MVG2STAT,Flag indicating former home was owned/rented by someone in current home (mover group 2),MVGXSTAT is determined using XHEAD (Was that unit owned/rented by someone who moved here?) and XREL (Was it owned/rented by a relative?).,See User Notes,Categorical,FALSE,FALSE,FALSE
+MVG3STAT,Flag indicating former home was owned/rented by someone in current home (mover group 3),MVGXSTAT is determined using XHEAD (Was that unit owned/rented by someone who moved here?) and XREL (Was it owned/rented by a relative?).,See User Notes,Categorical,FALSE,FALSE,FALSE
+MVG1LOC,Flag indicating move was more than 50 miles (mover group 1),"Respondents are first asked for the zip code of the previous address (XZIP). If they don't know, they are then asked if the move was more than 50 miles (XLOC). If the zip code was reported, that information was used by Census to determine if the location was more than 50 miles using the centroids of the current ZIP code and previous ZIP code.",See User Notes,Binary,FALSE,FALSE,FALSE
+MVG2LOC,Flag indicating move was more than 50 miles (mover group 2),"Respondents are first asked for the zip code of the previous address (XZIP). If they don't know, they are then asked if the move was more than 50 miles (XLOC). If the zip code was reported, that information was used by Census to determine if the location was more than 50 miles using the centroids of the current ZIP code and previous ZIP code.",See User Notes,Binary,FALSE,FALSE,FALSE
+MVG3LOC,Flag indicating move was more than 50 miles (mover group 3),"Respondents are first asked for the zip code of the previous address (XZIP). If they don't know, they are then asked if the move was more than 50 miles (XLOC). If the zip code was reported, that information was used by Census to determine if the location was more than 50 miles using the centroids of the current ZIP code and previous ZIP code.",See User Notes,Binary,FALSE,FALSE,FALSE
+SEARCHSTOP,Reason for stopping housing search sooner than preferred,"SEARCHSTOP is determined using STOPLOOK (Did you end your housing search sooner than you would have liked?), STPLKTIME (Did you end your housing search because you had to move quickly and did not have time to fully explore your housing options?), and STPLKTRAV (because you had difficulty traveling to other neighborhoods to find preferred housing?).",See User Notes,Categorical,FALSE,FALSE,FALSE
+MOVFORCE,"Flag indicating respondent, who moved in last two years, was forced to move by landlord, bank, government, or disaster","In 2015 only one question was asked (MOVFORCE - Were you forced to move by a landlord, a bank or other financial institution, the government, or because of a disaster or fire?). In 2017 and later, the single MOVFORCE item was replaced with two items: MOVFORCE2 (Were you forced to move by a landlord, a bank or other financial institution, or the government?) and MOVDISAS (Were you forced to move because of a disaster or fire?). Also see MOVWHY.",See User Notes,Binary,FALSE,FALSE,FALSE
+HRATE,Rating of current home,,"Is this housing unit better, worse, or about the same as your last home?",Categorical,FALSE,FALSE,FALSE
+NRATE,Rating of current neighborhood,,"Is this neighborhood better, worse, or about the same as your last neighborhood?",Categorical,FALSE,FALSE,FALSE
+MGRONSITE,Flag indicating there is an owner or property manager onsite,"MGRONSITE is determined using OWNHEREQA (Does the owner of the building live in one of the units in this building?), OWNHEREQB (Does the property manager live in one of the units in this building?), and OWNHEREQC (Does the owner or property manger live in one of the units in this building?). OWNHEREQA and OWNHEREQB are asked of multiunit buildings with 2-4 units. OWNHEREQC is asked of buildings with 5 or more units.",See User Notes,Categorical,FALSE,FALSE,FALSE
+ADEQUACY,Type of housing adequacy,This item reflects categorizations of housing quality defined by HUD.,NA,Categorical,FALSE,FALSE,FALSE
+POVLVLINC,Federal poverty level threshold,This is the federal poverty measure used to determine financial eligibility for certain federal programs. It is based on federal poverty thresholds created by Census. More information about the creation of these thresholds and the values of the thresholds themselves can be found at https://www.census.gov/hhes/www/poverty/index.html.,NA,Continuous,FALSE,FALSE,FALSE
+HUDSUB,Subsidized renter status and eligibility,"This variable provides additional information regarding the eligibility of the household for housing subsidies. For more information see the ""subsidized renter status"" in the Subject Definitions found here: https://www.census.gov/programs-surveys/ahs/tech-documentation/def-errors-changes.html",NA,Categorical,FALSE,FALSE,FALSE
+UPKEEP,Type of upkeep problems,"This item reflects levels of upkeep problems defined by HUD. Moderately inadequate upkeep is defined as having three of four of the following problems: (1) water leaks from the outside, such as from the roof, basement, windows, or doors; (2) leaks from inside structure, such as pipes or plumbing fixtures; (3) holes in the floors; (4) holes or open cracks in the walls or ceilings; (5) more than 8 by 11 inches of peeling paint or broken plaster; or (6) signs of rats in the last 90 days. Severely inadequate upkeep is defined as having at least five of those problems.",NA,Categorical,FALSE,FALSE,FALSE
+SPLITSAMP,Flag indicating split sample group,"Some AHS modules are considered to be ""topical"" as opposed to ""core."" Topical modules are included on a rotating basis and are usually asked of only half the AHS sample. When a topical module is only asked of half the sample a split sample flag is assigned to designate group 1 or 2. In 2017, Group 1 included the topic Commuting; Group 2 included Disaster Planning. In 2015, Group 1 included the topics Art, Food Security, and Housing Counseling; Group 2 included Healthy Homes.",NA,Binary,FALSE,FALSE,FALSE
+VACANCY,Vacancy status,"VACANCY is determined using VACANC1 (Is the unit intended for year-round use, for occupancy only on a seasonal basis, or for use by migrant workers?) and VACANC2 (Is that house for rent only? For rent or for sale? For sale only? Rented, but not yet occupied? Sold, but not yet occupied? Held for occasional use throughout the year?). The type for this variable changed in 2015 from numeric to character. Leading zeros were added to codes 1-9 as a result of the type change.",See User Notes,Categorical,FALSE,FALSE,FALSE
+REPWEIGHT1,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT2,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT3,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT4,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT5,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT6,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT7,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT8,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT9,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT10,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT11,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT12,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT13,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT14,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT15,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT16,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT17,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT18,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT19,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT20,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT21,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT22,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT23,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT24,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT25,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT26,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT27,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT28,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT29,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT30,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT31,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT32,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT33,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT34,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT35,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT36,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT37,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT38,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT39,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT40,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT41,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT42,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT43,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT44,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT45,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT46,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT47,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT48,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT49,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT50,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT51,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT52,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT53,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT54,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT55,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT56,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT57,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT58,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT59,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT60,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT61,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT62,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT63,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT64,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT65,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT66,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT67,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT68,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT69,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT70,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT71,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT72,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT73,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT74,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT75,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT76,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT77,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT78,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT79,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT80,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT81,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT82,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT83,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT84,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT85,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT86,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT87,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT88,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT89,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT90,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT91,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT92,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT93,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT94,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT95,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT96,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT97,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT98,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT99,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT100,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT101,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT102,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT103,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT104,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT105,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT106,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT107,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT108,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT109,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT110,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT111,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT112,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT113,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT114,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT115,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT116,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT117,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT118,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT119,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT120,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT121,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT122,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT123,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT124,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT125,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT126,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT127,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT128,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT129,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT130,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT131,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT132,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT133,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT134,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT135,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT136,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT137,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT138,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT139,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT140,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT141,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT142,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT143,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT144,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT145,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT146,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT147,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT148,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT149,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT150,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT151,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT152,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT153,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT154,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT155,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT156,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT157,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT158,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT159,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+REPWEIGHT160,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT1,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT2,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT3,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT4,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT5,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT6,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT7,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT8,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT9,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT10,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT11,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT12,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT13,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT14,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT15,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT16,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT17,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT18,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT19,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT20,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT21,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT22,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT23,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT24,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT25,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT26,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT27,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT28,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT29,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT30,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT31,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT32,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT33,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT34,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT35,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT36,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT37,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT38,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT39,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT40,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT41,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT42,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT43,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT44,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT45,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT46,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT47,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT48,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT49,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT50,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT51,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT52,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT53,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT54,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT55,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT56,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT57,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT58,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT59,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT60,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT61,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT62,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT63,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT64,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT65,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT66,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT67,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT68,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT69,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT70,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT71,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT72,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT73,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT74,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT75,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT76,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT77,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT78,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT79,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT80,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT81,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT82,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT83,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT84,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT85,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT86,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT87,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT88,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT89,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT90,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT91,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT92,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT93,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT94,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT95,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT96,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT97,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT98,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT99,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT100,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT101,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT102,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT103,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT104,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT105,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT106,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT107,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT108,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT109,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT110,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT111,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT112,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT113,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT114,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT115,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT116,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT117,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT118,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT119,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT120,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT121,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT122,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT123,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT124,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT125,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT126,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT127,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT128,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT129,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT130,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT131,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT132,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT133,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT134,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT135,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT136,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT137,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT138,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT139,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT140,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT141,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT142,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT143,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT144,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT145,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT146,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT147,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT148,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT149,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT150,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT151,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT152,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT153,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT154,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT155,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT156,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT157,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT158,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT159,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP1REPWGT160,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT1,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT2,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT3,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT4,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT5,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT6,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT7,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT8,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT9,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT10,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT11,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT12,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT13,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT14,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT15,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT16,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT17,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT18,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT19,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT20,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT21,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT22,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT23,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT24,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT25,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT26,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT27,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT28,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT29,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT30,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT31,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT32,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT33,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT34,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT35,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT36,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT37,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT38,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT39,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT40,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT41,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT42,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT43,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT44,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT45,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT46,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT47,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT48,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT49,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT50,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT51,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT52,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT53,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT54,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT55,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT56,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT57,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT58,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT59,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT60,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT61,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT62,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT63,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT64,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT65,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT66,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT67,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT68,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT69,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT70,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT71,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT72,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT73,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT74,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT75,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT76,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT77,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT78,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT79,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT80,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT81,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT82,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT83,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT84,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT85,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT86,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT87,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT88,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT89,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT90,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT91,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT92,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT93,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT94,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT95,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT96,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT97,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT98,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT99,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT100,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT101,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT102,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT103,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT104,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT105,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT106,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT107,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT108,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT109,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT110,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT111,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT112,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT113,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT114,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT115,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT116,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT117,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT118,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT119,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT120,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT121,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT122,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT123,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT124,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT125,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT126,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT127,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT128,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT129,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT130,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT131,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT132,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT133,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT134,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT135,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT136,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT137,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT138,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT139,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT140,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT141,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT142,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT143,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT144,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT145,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT146,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT147,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT148,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT149,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT150,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT151,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT152,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT153,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT154,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT155,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT156,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT157,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT158,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT159,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+SP2REPWGT160,#N/A,#N/A,#N/A,#N/A,#N/A,TRUE,FALSE
+FIRSTHOME,Flag indicating if first-time home buyer,,Is this the first home you have ever owned?,Binary,TRUE,FALSE,FALSE
+MARKETVAL,Current market value of unit,"VALUE1 is asked multiple ways depending on the structure type. If the unit is for sale the respondent is asked ""What is the sales price asked for that property?"" If the unit is a house or MH the respondent is asked ""What is the value of the house and its lot or yard?,"" BUT mobile homes are asked to NOT Include the value of the land (see LOTVAL and note that mobile home land value is collected separately because the unit could move). If the unit is in a building with 2 or more units, the respondent is asked ""What is the value of the apartment/unit only?""",See User Notes,Continuous,FALSE,FALSE,FALSE
+TOTBALAMT,Total remaining debt across all mortgages or similar debts for this unit,,NA,Continuous,FALSE,FALSE,FALSE
+PROTAXAMT,Monthly property tax amount,"PROTAXAMT is collected as an annual amount, but converted to monthly for the microdata file.",What were the real estate taxes last year?,Continuous,FALSE,FALSE,FALSE
+INSURAMT,Monthly homeowner or renter insurance amount,"Respondents are first asked BUYI1/2 (Does this household have property insurance?), and if they reply yes, then asked the amount. The values shown on the microdata has been converted to a monthly amount.",See User Notes,Continuous,FALSE,FALSE,FALSE
+HOAAMT,Monthly homeowners or condominium association amount,"HOAAMT is determined from multiple variables, including those that ask MH park fee (IFFEEMH1, CAMFMH1, FEEAMTMH1), other fees for utility hookups, mobile home association fees, etc. (IFOTHF1, FMHOTF1, MHOTFE1), homeowner or condo assn fee (IFFEEHO, CAMFHO, FEEAMTHO)and so forth. The values shown in the microdata have converted to monthly amounts.",See User Notes,Continuous,FALSE,FALSE,FALSE
+LOTAMT,Monthly lot rent amount,"Respondents are first asked INCS (Do you pay rent for the land?), and if they reply yes, then asked FLRENT (How many times a year is the land/site rent due?), then asked LRENT (What is the cost?). The values shown in the microdata have been converted to monthly amounts.",See User Notes,Continuous,FALSE,FALSE,FALSE
+MAINTAMT,Amount of annual routine maintenance costs,,"In a TYPICAL YEAR, about how much does your household spend for routine repairs and maintenance, such as painting, plumbing, roofing, or other minor repairs?",Continuous,FALSE,FALSE,FALSE
+MORTAMT,Monthly total mortgage amount (all mortgages),MORTAMT is the sum of PMTAMT (mortgage payment amount) across all mortgages.,NA,Continuous,FALSE,FALSE,FALSE
+HINCP,Household Income (past 12 months),HINCP is the sum of all types of income for all household members age 16 and over.,NA,Continuous,TRUE,FALSE,FALSE
+FINCP,Family income (past 12 months),FINCP is the sum of all types of income for the householder and all related individuals age 16 and over.,NA,Continuous,TRUE,FALSE,FALSE
+REMODAMT,Total cost of home improvement jobs in last two years,"REMODAMT=0 indicates that either the respondent did not report any home improvement jobs, or the respondent reported one or more home improvement jobs and all had a cost of $0.",NA,Continuous,FALSE,FALSE,FALSE
+TOTHCAMT,Monthly total housing costs,"TOTHCAMT is the sum of all other variables in the ""Total Housing Costs"" subtopic, which includes MORTAMT, RENT, UTILAMT, PROTAXAMT, INSURAMT, HOAAMT, LOTAMT, and MAINTAMT. MAINTAMT is first divided by 12 to convert it to a monthly cost.",NA,Continuous,FALSE,FALSE,FALSE
+YEAR,#N/A,#N/A,#N/A,#N/A,FALSE,FALSE,FALSE
